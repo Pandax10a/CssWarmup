@@ -1,0 +1,21 @@
+#grayitis {
+    filter: grayscale(1);
+}
+#bigfont {
+    font-size: x-large;
+    word-spacing: 3px;
+    text-shadow: 4px 4px 20px purple;
+}
+
+#boxit {
+    box-shadow: 5px 5px 30px greenyellow;
+}
+
+.smalltextright {
+    text-align: right;
+    font-size: x-small;
+}
+
+.smalltextcenter {
+    
+}
